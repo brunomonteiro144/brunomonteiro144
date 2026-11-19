@@ -1,16 +1,37 @@
-## Hi there 👋
+Olá, sou o Bruno Monteiro
+Atualmente frequento o TeSP em Tecnologias e Programação de Sistemas de Informação na Escola Superior de Gestão e Tecnologias de Santarém.
 
-<!--
-**brunomonteiro144/brunomonteiro144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre Mim
+🎓 Estudante de Tecnologias e Programação de Sistemas de Informação
 
-Here are some ideas to get you started:
+💻 Interesse em Desenvolvimento Web, Bases de Dados e Sistemas de Informação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Futuro estudante de Engenharia Informática
+
+Conhecimentos Académicos
+HTML
+CSS
+JavaScript
+SQL
+Java
+PHP
+C#
+
+Projeto em Destaque
+Sistema de Gestão para Restauração com QR Code
+Projeto de Aptidão Profissional desenvolvido para otimizar o processo de pedidos em restaurantes.
+
+Funcionalidades:
+Consulta digital de menus
+Pedidos através de smartphone
+Dashboard de estatísticas
+Gestão de pedidos para colaboradores
+
+Tecnologias:
+PHP
+HTML
+CSS
+JavaScript
+
+Contacto
+📧 bruno14monteiro.2004@gmail.com
