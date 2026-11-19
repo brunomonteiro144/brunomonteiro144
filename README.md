@@ -1,14 +1,14 @@
-# Olá, sou o Bruno Monteiro 👋
+# Olá, sou o Bruno Monteiro 
 
 Atualmente frequento o TeSP em Tecnologias e Programação de Sistemas de Informação na Escola Superior de Gestão e Tecnologias de Santarém.
 
 ## Sobre Mim
 
-🎓 Estudante de Tecnologias e Programação de Sistemas de Informação
+Estudante de Tecnologias e Programação de Sistemas de Informação
 
-💻 Interesse em Desenvolvimento Web, Bases de Dados e Sistemas de Informação
+Interesse em Desenvolvimento Web, Bases de Dados e Sistemas de Informação
 
-📚 Futuro estudante de Engenharia Informática
+Futuro estudante de Engenharia Informática
 
 ---
 
